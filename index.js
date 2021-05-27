@@ -10,3 +10,5 @@ const random =  Math.floor(Math.random()+1);
 const num3 = 24;
 const num4 = 10;
 const mod = num3 % num4;
+
+const max = Math.max(1,2);
